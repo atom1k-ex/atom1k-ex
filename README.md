@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-![Abhishek Tripathi](https://i.ibb.co/kGF5Bqj/Cover.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <h3 align="center">Hi there! I'm a computer programmer who loves to simplify things. I love breaking down complicated problems into easy to understand solutions. I believe that any problem can be solved with the help of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atom1k-ex&label=Profile%20views&color=0e75b6&style=flat" alt="atom1k-ex" /> </p>
