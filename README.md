@@ -1,6 +1,7 @@
-[![AtomikProfile](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/source.gif)](https://atomik.me)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Hi there! I'm a computer programmer who loves to simplify things. I love breaking down complicated problems into easy to understand solutions. I believe that any problem can be solved with the help of technology.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MGdfeiKtEiEPS/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atom1k-ex&label=Profile%20views&color=0e75b6&style=flat" alt="atom1k-ex" /> </p>
 
