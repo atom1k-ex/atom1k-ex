@@ -1,4 +1,4 @@
-[![AtomikProfile](https://i.ibb.co/TWyLcb3/atomikcover.jpg)](https://atomik.me)
+[![AtomikProfile](https://i.ibb.co/TWyLcb3/atomikcover.jpg | width=100)](https://atomik.me)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Hi there! I'm a computer programmer who loves to simplify things. I love breaking down complicated problems into easy to understand solutions. I believe that any problem can be solved with the help of technology.</h3>
 
